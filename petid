@@ -1,0 +1,9 @@
+
+created a pet id if the operation was suceesfull then id of the pet should be updated
+{
+  "code": 0,
+  "type": "string",
+  "message": "string"
+}
+
+
